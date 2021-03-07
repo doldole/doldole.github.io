@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            doldole's Blog
 tagline:          'doldole'
-description:      'Welcome doldole's Blog'
+description:      'Welcome doldole Blog'
 remote_theme:     fongandrew/hydeout
 url:              https://doldole.github.io
 baseurl:          '/'
