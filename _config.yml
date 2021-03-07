@@ -6,6 +6,7 @@ highlighter:      rouge
 title:            doldole's Blog
 tagline:          'doldole'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+remote_theme:     fongandrew/hydeout
 url:              https://doldole.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
